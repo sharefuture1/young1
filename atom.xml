@@ -5,9 +5,9 @@
   
   <link href="/young1/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://sharefuture1.github.io/"/>
   <updated>2020-05-23T10:15:18.259Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://sharefuture1.github.io/</id>
   
   <author>
     <name>Young</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/05/23/hello-world/"/>
-    <id>http://yoursite.com/2020/05/23/hello-world/</id>
+    <link href="https://sharefuture1.github.io/2020/05/23/hello-world/"/>
+    <id>https://sharefuture1.github.io/2020/05/23/hello-world/</id>
     <published>2020-05-23T09:54:26.295Z</published>
     <updated>2020-05-23T10:15:18.259Z</updated>
     
