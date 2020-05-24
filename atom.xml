@@ -3,10 +3,10 @@
   <title>YoungWorld</title>
   
   
-  <link href="/young1/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="https://sharefuture1.github.io/"/>
-  <updated>2020-05-23T14:53:52.348Z</updated>
+  <updated>2020-05-24T05:07:05.389Z</updated>
   <id>https://sharefuture1.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Page</title>
+    <link href="https://sharefuture1.github.io/2020/05/24/hello-world/"/>
+    <id>https://sharefuture1.github.io/2020/05/24/hello-world/</id>
+    <published>2020-05-24T05:05:52.000Z</published>
+    <updated>2020-05-24T05:07:05.389Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;title: jQuery对表单的操作及更多应用&lt;br&gt;date: 2017-05-26 12:12:57&lt;br&gt;categories:
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>first page</title>
@@ -30,29 +54,6 @@
         
         
           &lt;h2 id=&quot;first-web-page-created-by-hexo&quot;&gt;&lt;a href=&quot;#first-web-page-created-by-hexo&quot; class=&quot;headerlink&quot; title=&quot;first web page created by
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://sharefuture1.github.io/2020/05/23/hello-world/"/>
-    <id>https://sharefuture1.github.io/2020/05/23/hello-world/</id>
-    <published>2020-05-23T09:54:26.295Z</published>
-    <updated>2020-05-23T10:15:18.259Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
         
       
     
